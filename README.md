@@ -1,19 +1,21 @@
 # Hey, I'm Usman Tahir 👋
 
-I'm a full-stack engineer with 10+ years of experience building scalable, production-grade web applications. My core expertise lies in React, Next.js, and Node.js—but recently, I've been building a sophisticated monorepo architecture and diving into blockchain development.
+I'm a full-stack engineer with 10+ years of experience crafting scalable, production-grade web applications. My primary expertise lies in React, Next.js, and Node.js—but lately, I've been expanding into AWS cloud infrastructure and the fascinating world of blockchain.
 
-I've built multiple component libraries and design systems over the years. Right now, I'm working on a full-stack **Turborepo setup** that includes:
-- A reusable **utility package** for authentication, authorization, and DB connections
-- A **UI component library** using **Shadcn/UI**, **Tailwind**, and **Next.js**
-- Exploring backend integration using **NestJS** with **shared types**
-- Integrating **smart contracts** and **blockchain functionality** into the system
+Over the years, I’ve built multiple component libraries, design systems, and developer tools. Right now, I'm working on a modern **monorepo architecture** using Turborepo that brings frontend and backend together in a seamless developer experience.
 
-I'm passionate about building clean abstractions, optimizing developer experience (DX), and designing scalable, future-proof systems.
+My current focus includes:
+- A reusable **utility package** for authentication, authorization, and database access
+- A custom **UI component library** powered by **Shadcn/UI**, **Tailwind CSS**, and **Next.js**
+- Integrating a **NestJS backend** with **shared types** and smooth inter-package workflows
+- Embedding **smart contracts** and blockchain functionality into the stack
 
-- 🔭 Currently exploring: **Monorepos, shared types, blockchain integration, and advanced AWS setups**
-- 💼 Past work includes large-scale frontend apps, design systems, backend APIs, and dev tooling
-- 🧠 I care about: **DX, performance, maintainability**, and scalable design patterns
-- 🤝 Open to collaborations, OSS contributions, and technical leadership roles
+I love working at the intersection of clean architecture, modern tooling, and performance-driven development. I'm driven by the pursuit of developer happiness, maintainable codebases, and systems that scale well—both in terms of users and teams.
+
+- 🔭 Currently exploring: **Monorepos, shared types, blockchain integration**, and **advanced AWS serverless tooling**
+- 💼 Past work spans large-scale frontend platforms, component libraries, internal tooling, and scalable backend APIs
+- 🧠 I care deeply about: **developer experience (DX), performance, clean abstractions**, and sustainable architecture
+- 🤝 Always open to collaborations, OSS contributions, mentoring, and Staff+ engineering challenges
 
 ## 🛠️ Tech Stack
 
